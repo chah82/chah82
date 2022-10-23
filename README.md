@@ -1,3 +1,3 @@
 #i love git my version control toolS
-#i must get a job this up coming week
+#hapiness is the key
 #i am enjoying git
